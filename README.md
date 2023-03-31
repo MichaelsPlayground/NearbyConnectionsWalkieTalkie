@@ -2,6 +2,8 @@
 
 Source: https://github.com/android/connectivity-samples/tree/main/NearbyConnectionsWalkieTalkie
 
+Status: running on Android 9 + 13 (real devices)
+
 Demonstrates streaming audio with the
 [Nearby.Connections API](https://developers.google.com/nearby/connections/overview) to other
 nearby devices.
