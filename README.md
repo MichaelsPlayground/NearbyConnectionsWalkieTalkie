@@ -1,5 +1,7 @@
 # Google APIs for Mobile: Quickstarts
 
+Source: https://github.com/android/connectivity-samples/tree/main/NearbyConnectionsWalkieTalkie
+
 Demonstrates streaming audio with the
 [Nearby.Connections API](https://developers.google.com/nearby/connections/overview) to other
 nearby devices.
